@@ -1,0 +1,1 @@
+sumber https://belajarpython.com/tutorial/operator-python/
